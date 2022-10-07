@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/U16Filer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmering/jplab10/startkode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U01Introduksjon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U01Kalkulator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U02SetningerUttrykk/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U03Valgsetninger/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U04Lokker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U05Kontrollstrukturer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U06MetoderA/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U06MetoderB/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U07Tabeller/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U09TabellerArrays/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U10FlerDimTabeller/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U11SorteringOgSoking/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U12SkuleproveGjennomgang/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U13Objekter_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U14Objekter_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U16Filer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U17Unntak/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U18Objektsamlinger/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U19SubklasserOgArv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U20Grensesnitt/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/U22GUI/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/gitdemo/TestProsjekt/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/undervisning/jdkdemo" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
